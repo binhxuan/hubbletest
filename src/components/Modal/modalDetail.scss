@@ -1,0 +1,29 @@
+.issueinfo
+{
+    margin-top: 10px;
+    span 
+    {
+        margin-right: 10px;
+    }
+    .state
+    {
+        font-size: 20px;
+    }
+
+    .open
+    {
+        text-transform: capitalize;
+        color: #04AA6D;
+    }
+
+    .close
+    {
+        text-transform: capitalize;
+        color: #cf222e;
+    }
+}
+
+.issuecomment
+{
+    margin-bottom: 10px;
+}
