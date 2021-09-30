@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hubbletest/static/css/main.4727ee88.chunk.css",
+    "main.js": "/hubbletest/static/js/main.4b72456a.chunk.js",
+    "main.js.map": "/hubbletest/static/js/main.4b72456a.chunk.js.map",
+    "runtime-main.js": "/hubbletest/static/js/runtime-main.5ecfb0aa.js",
+    "runtime-main.js.map": "/hubbletest/static/js/runtime-main.5ecfb0aa.js.map",
+    "static/css/2.d9e6601a.chunk.css": "/hubbletest/static/css/2.d9e6601a.chunk.css",
+    "static/js/2.76521282.chunk.js": "/hubbletest/static/js/2.76521282.chunk.js",
+    "static/js/2.76521282.chunk.js.map": "/hubbletest/static/js/2.76521282.chunk.js.map",
+    "static/js/3.556ab6c1.chunk.js": "/hubbletest/static/js/3.556ab6c1.chunk.js",
+    "static/js/3.556ab6c1.chunk.js.map": "/hubbletest/static/js/3.556ab6c1.chunk.js.map",
+    "index.html": "/hubbletest/index.html",
+    "static/css/2.d9e6601a.chunk.css.map": "/hubbletest/static/css/2.d9e6601a.chunk.css.map",
+    "static/css/main.4727ee88.chunk.css.map": "/hubbletest/static/css/main.4727ee88.chunk.css.map",
+    "static/js/2.76521282.chunk.js.LICENSE.txt": "/hubbletest/static/js/2.76521282.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ecfb0aa.js",
+    "static/css/2.d9e6601a.chunk.css",
+    "static/js/2.76521282.chunk.js",
+    "static/css/main.4727ee88.chunk.css",
+    "static/js/main.4b72456a.chunk.js"
+  ]
+}
